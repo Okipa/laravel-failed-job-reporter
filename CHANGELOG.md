@@ -6,6 +6,7 @@
 
 * Added php7.4 support.
 * Added Laravel 7 support.
+* Dropped support for Laravel versions under 5.8.
 
 ## [1.0.3](https://github.com/Okipa/laravel-failed-jobs-notifier/compare/1.0.2...1.0.3)
 
