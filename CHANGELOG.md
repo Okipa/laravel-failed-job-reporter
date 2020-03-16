@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.0](https://github.com/Okipa/laravel-failed-jobs-notifier/compare/1.1.0...2.0.0)
+
+2020-03-16
+
+* Added Laravel 7 support.
+* Upgraded `laravel-notification-channels/webhook` dependency to v2.
+* Renamed `failed-jobs-notifier.slack.webhook_url` config to `failed-jobs-notifier.slack.webhookUrl`.
+
 ## [1.1.0](https://github.com/Okipa/laravel-failed-jobs-notifier/compare/1.0.3...1.1.0)
 
 2020-03-03

@@ -3,9 +3,9 @@
 namespace Okipa\LaravelFailedJobsNotifier;
 
 use Carbon\Carbon;
-use DB;
 use Illuminate\Notifications\Notification;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 use Okipa\LaravelFailedJobsNotifier\Exceptions\InexistentFailedJobsTable;
 use Okipa\LaravelFailedJobsNotifier\Exceptions\InvalidDaysLimit;
